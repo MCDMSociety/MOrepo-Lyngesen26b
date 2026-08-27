@@ -1,0 +1,24 @@
+{
+   "contributionName": "MOrepo-Lyngesen26",
+   "maintainer" : "Mark Lyngesen <research@lyngesen.eu>",
+   "instanceGroups": [
+      {
+         "subfolder": "IP",
+         "class": "IP/Assignment/MKP",
+         "objectives": 1,
+         "tags": [ "IP", "assignmentProblem", "MultiDimensionalKnapsackProblem" ],
+         "format": [ "json"],
+         "desc": "Single Objective IP labelled with CPLEX solution time, used for creating BS-IP instances.",
+         "creator" : "Mark Lyngesen <research@lyngesen.eu>"
+      },
+      {
+         "subfolder": "bs-ip",
+         "class": "bi-objective Block-structured Integer Programming Instances",
+         "objectives": 2,
+         "tags": [ "bi-ip", "block-structure", "soft-constraint" ],
+         "format": [ "json" ],
+         "desc": "Block-structured integer programs.",
+         "creator" : "Mark Lyngesen <research@lyngesen.eu>"
+      }
+   ]
+}
