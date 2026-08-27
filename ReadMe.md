@@ -8,7 +8,7 @@ Importantly, in all instances the root vertex is a cut-vertex of the graph.
 
 ## How to cite
 
-To cite the [paper](https://arxiv.org/abs/2606.24318) use:
+To cite the paper use:
 
 Fourthcoming arXiv citation:
 ```
